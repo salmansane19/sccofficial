@@ -14,6 +14,6 @@ $pip install mechanize requests bs4
 
 $git clone https://github.com/salmansane19
 
-$cd callv3
+$cd sccofficial
 
 $python scccall.py
